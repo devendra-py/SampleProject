@@ -2,4 +2,8 @@ from django.shortcuts import render
 
 # Create your views here.
 def show(request):
-    pass
+    print(" hello welcome  to hyderabad ")
+    # i am deploy the the project into GitHub...
+
+
+
